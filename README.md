@@ -10,8 +10,8 @@ Previously Business Intelligence Intern @ Shopee — built survival analysis mod
 ## Skills & Tools
 
 **Languages:** Python, SQL, Java  
-**Frameworks:** PyTorch, scikit-learn, Hugging Face, XGBoost, LightGBM, LangGraph  
-**Models:** BERT, LLaMA, CNN, Transformer, DeepFM, CoxPH, DeepHit  
+**Frameworks:** PyTorch, scikit-learn, Hugging Face, LangGraph  
+**Models:** BERT, LLaMA, CNN, Transformer, DeepFM, CoxPH, DeepHit, XGBoost, LightGBM  
 **Techniques:** Behavior Cloning, LoRA Fine-tuning, SHAP Explainability, Survival Analysis, Causal Inference, A/B Testing   
 **Tools:** Git, Hive, Streamlit, Power BI, Tableau
 
