@@ -19,8 +19,8 @@ Previously Business Intelligence Intern @ Shopee — built survival analysis mod
 
 | Project | Description |
 |---------|-------------|
-| DetoxiGuard | Agentic LLM guardrail that classifies toxic content and iteratively rewrites flagged outputs<br>Fine-tuned BERT & LLaMA (LoRA), recall-optimized ensemble with per-label threshold tuning.<br> · Planning to submit to EMNLP 2026 SRW |
-| [Insurance Cost Predictor](https://github.com/yinruide/Insurance-Cost-Predictor) | Streamlit app predicting medical insurance costs with two-stage routing pipeline<br>MLP, Mixture Density Network from scratch, quantile regression · 🚧 In progress |
+| [DetoxiGuard](https://github.com/yinruide/DetoxiGuard) | Agentic LLM guardrail that classifies toxic content and iteratively rewrites flagged outputs<br>Fine-tuned BERT & LLaMA (LoRA), recall-optimized ensemble with per-label threshold tuning.<br> · Planning to submit to EMNLP 2026 SRW |
+| [Insurance Cost Predictor](https://github.com/yinruide/Insurance-Cost-Predictor) | Streamlit app predicting medical insurance costs with two-stage routing pipeline<br>MLP, Mixture Density Network from scratch, quantile regression |
 | [Credit Card Fraud Detection](https://github.com/yinruide/Credit-Card-Fraud-Detection) | End-to-end fraud detection on 284K imbalanced transactions (~10% AUPRC improvement)<br>Compared LR, RF, XGBoost, LightGBM across resampling strategies; benchmarked Isolation Forest & Autoencoder |
 | [Click-Through Rate Prediction](https://github.com/yinruide/Click-Through-Rate-Prediction) | CTR prediction on 4M-row Avazu dataset with 8.7% LogLoss reduction<br>LightGBM, XGBoost, DeepFM (PyTorch), weighted ensemble, SHAP analysis & calibration (ECE = 0.003) |
 
